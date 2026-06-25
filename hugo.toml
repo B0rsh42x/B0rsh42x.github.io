@@ -46,6 +46,18 @@ icon = "fa-brands fa-github fa-2x"
 weight = 1
 url = "https://github.com/B0rsh42x/"
 
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/mohaned-ashraf-797216230/"
+
+[[params.social]]
+name = "X"
+icon = "fa-brands fa-x-twitter fa-2x"
+weight = 3
+url = "https://x.com/MohanedAshraff_"
+
 [languages.en]
 label = ":uk:"
 
