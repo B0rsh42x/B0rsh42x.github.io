@@ -1,12 +1,12 @@
 +++
-title = "MIX (reverse) | Luxor Finals CTF"
+title = "MIX (reverse) | Luxory CYCTF"
 date = "2026-04-01"
 author = "B0rsh42x"
 tags = ["reverse-engineering", "ctf", "writeup", "radare2"]
 description = "Writeup for a reverse engineering challenge from Luxor Finals CTF involving radare2 analysis and a custom XOR cipher with rotating bitwise shifts."
 +++
 
-**MIX (reverse)| Luxor Finals CTF**
+**MIX (reverse)| Luxory CYCTF**
 
 ![](https://miro.medium.com/v2/resize:fit:272/0*hgFQskynzOlIbsOZ.png)
 
